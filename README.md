@@ -1,6 +1,6 @@
 👋 Hi, I’m @evbclarke
 
-- 💻 Currently working as a data developer.
+- 💻 I'm currently working as a data developer.
 - 👀 I’m interested in data science and Agile.
 - 🌱 I’m currently learning about GitHub and DevOps.
 
