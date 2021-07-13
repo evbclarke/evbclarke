@@ -1,8 +1,8 @@
 👋 Hi, I’m @evbclarke
 
-- 💻 I'm currently working as a data developer.
-- 👀 I’m interested in data science and Agile.
-- 🌱 I’m currently learning about GitHub and DevOps.
+- 💻 I am currently working as a data developer.
+- 👀 I am interested in data science and Agile.
+- 🌱 I am learning about GitHub and DevOps practices.
 
 <!---
 evbclarke/evbclarke is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
